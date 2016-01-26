@@ -9,9 +9,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ramda": "^0.19.1"
+    "ramda": "0.19.x",
+    "ramda-fantasy": "github:ramda/ramda-fantasy"
   },
   "devDependencies": {
-    "mocha": "^2.3.4"
+    "mocha": "2.3.x",
+    "jsverify": "0.7.x"
   }
 }
